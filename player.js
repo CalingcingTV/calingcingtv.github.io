@@ -1,5 +1,5 @@
 //const SHEET_JSON_URL = "https://script.google.com/macros/s/AKfycbzDVxRw0wpHifSZ8hOowA_aGUUp0o6wptU2ec0hE1rdCOFXySXJs-nUBz5ow4L26PIh/exec";
-const SHEET_JSON_URL = "data/m3u8.json";
+const SHEET_JSON_URL = "data/m3u.json";
 
 let channels = [];
 let activeCategory = null;
