@@ -28,17 +28,24 @@
         "useragent": "Mozilla\/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit\/531.21.10 (KHTML, like Gecko) Mobile\/7B408"
     },
     {
+        "name": "TVONE",
+        "category": "NASIONAL",
+        "logo": "https:\/\/raw.githubusercontent.com\/azyanggara\/logo-tv\/refs\/heads\/main\/Tvone.png",
+        "url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h40\/01.m3u8",
+        "useragent": "Mozilla\/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit\/531.21.10 (KHTML, like Gecko) Mobile\/7B409"
+    },
+    {
         "name": "BNTV",
-        "category": "TEST",
-        "logo": "",
+        "category": "NASIONAL",
+        "logo": "https:\/\/raw.githubusercontent.com\/azyanggara\/logo-tv\/refs\/heads\/main\/BNTV_Indonesia.png",
         "url": "https:\/\/op-group1-swiftservehd-1.dens.tv\/h\/h39\/01.m3u8",
         "useragent": "Mozilla\/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit\/531.21.10 (KHTML, like Gecko) Mobile\/7B409"
     },
     {
-        "name": "TRANS",
+        "name": "CNN INDONESIA",
         "category": "NASIONAL",
-        "logo": "",
-        "url": "https:\/\/video.detik.com\/transtv\/smil:transtv.smil\/chunklist_w2114898498_b744100_sleng.m3u8",
+        "logo": "https:\/\/cdn.cnnindonesia.com\/cnnid\/images\/logo_cnn_fav.png?v=10.15.2",
+        "url": "https:\/\/live.cnnindonesia.com\/livecnn\/smil:cnntv.smil\/chunklist_w1238913108_b384000_sleng.m3u8",
         "useragent": "Mozilla\/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit\/531.21.10 (KHTML, like Gecko) Mobile\/7B410"
     }
 ]
