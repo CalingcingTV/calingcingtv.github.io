@@ -30,7 +30,7 @@
 	<div class="bg-gray-700 p-6 rounded-xl shadow-2xl border-4 border-red-600 transform scale-105">
 		<p class="text-center text-sm font-semibold text-white bg-red-600 py-1 rounded-full mb-3">Paling Populer</p>
 		<h2 class="text-3xl font-bold mb-2 text-center text-white">Basic</h2>
-		<p class="text-5xl font-extrabold text-center mb-6 text-red-400">Rp 15.000<span class="text-base font-normal text-gray-400">/Bulan</span></p>
+		<p class="text-3xl font-extrabold text-center mb-6 text-red-400">Rp 15.000<span class="text-base font-normal text-gray-400">/Bulan</span></p>
 		<ul class="space-y-4 mb-8 text-gray-200">
 			<li class="flex items-center">
 				<svg class="w-6 h-6 text-green-500 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
@@ -55,7 +55,7 @@
 	</div>
 	<div class="bg-gray-800 p-6 rounded-xl shadow-2xl border-2 border-gray-700 hover:border-red-600 transition duration-300">
 		<h2 class="text-3xl font-bold mb-2 text-center text-red-400">Premium</h2>
-		<p class="text-5xl font-extrabold text-center mb-6 text-white">Rp 25.000<span class="text-base font-normal text-gray-400">/Bulan</span></p>
+		<p class="text-3xl font-extrabold text-center mb-6 text-white">Rp 25.000<span class="text-base font-normal text-gray-400">/Bulan</span></p>
 		<ul class="space-y-4 mb-8 text-gray-300">
 			<li class="flex items-center">
 				<svg class="w-6 h-6 text-green-500 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
