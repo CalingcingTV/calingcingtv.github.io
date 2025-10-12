@@ -46,7 +46,7 @@
         <p class="text-lg mb-6 text-gray-300">
             Unduh aplikasi CalingcingTV hari ini dan nikmati masa uji coba gratis atau langsung pilih paket langganan terbaik untuk Anda!
         </p>
-        <a href="./?download-apk" class="bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-6 rounded-lg text-lg transition duration-300 shadow-lg mr-4">
+        <a href="apk/app-debug.apk" class="bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-6 rounded-lg text-lg transition duration-300 shadow-lg mr-4">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
             </svg>
